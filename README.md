@@ -24,6 +24,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 This is a web NEWS application where you learn and read all the latest news by category easily.
 
+Open [https://news-ten-blush.vercel.app/](https://news-ten-blush.vercel.app/) to open live application. This application is deployed on vercel platform.
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
